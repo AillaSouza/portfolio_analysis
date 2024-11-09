@@ -1,6 +1,6 @@
 # Portfolio Analysis Project
 
-Welcome to the Portfolio Analysis Project! This project is designed to guide you through a comprehensive analysis of a set of financial assets. Over multiple days, you'll explore different aspects of financial analytics, employing Python to analyze, visualize, and optimize a sample portfolio. Whether you’re a student or a professional looking to advance your financial analysis skills, this project will provide a practical and structured approach.
+Welcome to the Portfolio Analysis Project! This project is designed to guide you through a comprehensive analysis of a set of financial assets. 
 
 # Project Overview
 
@@ -42,7 +42,7 @@ Optimize the portfolio using metrics like Sharpe Ratio and minimum variance.
 Conduct additional analyses, such as risk analysis and sensitivity testing on weights.
 Key Skills Developed
 
-# By the end of this project, you will have developed skills in:
+# Skills developed during the project:
 
 - Python for financial data analysis
 - Data manipulation with pandas
